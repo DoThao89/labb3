@@ -78,7 +78,7 @@
     </ul>
     <p>
 
-        <img src="images/images/keys.jpg" height="150" width="600"/>
+        <img src="imglabb3.jpg/a2.jpg" height="150" width="600"/>
         Chúng tôi vui mừng thông báo rằng tất cả các sản phẩm đều đã bán hết, nếu bạn đã code đến đây!!!
         Và bây giờ thì bạn đã biết cách viết một trang web rồi nhé.
 
